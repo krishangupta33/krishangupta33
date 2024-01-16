@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/krishan--gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishan--gupta" height="30" width="40" /></a>
 <a href="https://kaggle.com/krishangupta33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishangupta33" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krishangupta33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishangupta33" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krishangupta33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishangupta33" height="30" width="40" /></a>
 </p>
 
