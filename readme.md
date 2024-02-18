@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishangupta33&label=Profile%20views&color=10b40e&style=flat-square" alt="krishangupta33" /> </p>
 
 ## 👋 Hello! I'm Krishan
-- 🎓 I'm an experienced practitioner and student at **McGill's Master of Management in Analytics (Data Science)**.
+- 🎓 I'm an experienced Data Scientist and student at **McGill's Master of Management in Analytics (Data Science)**.
 - 🤖 Specializing in **Machine Learning and Deep Learning**, with a focus on bringing models to production.
 - 💻 Experienced in **creating and deploying scalable ML/DL models**.
 - 🌐 Visit my portfolio for a deep dive into my projects: [https://krishangupta.info](https://krishangupta.info)
