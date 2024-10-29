@@ -4,7 +4,6 @@
 - 🎓 I'm an experienced Data Scientist and student at **McGill's Master of Management in Analytics (Data Science)**.
 - 🤖 Specializing in **Machine Learning and Deep Learning**, with a focus on bringing models to production.
 - 💻 Experienced in **creating and deploying scalable ML/DL models**.
-- 🌐 Visit my portfolio for a deep dive into my projects: [https://krishangupta.info](https://krishangupta.info)
 - ✍️ I share insights and experiences on my blog: [https://krishangupta.info/blog](https://krishangupta.info/blog)
 - 💬 Happy to discuss **Data Science, Machine Learning, and Model Deployment strategies**.
 - 📧 Reach out to me for collaborations or inquiries about my work at **krishan.gupta@mail.mcgill.ca**
