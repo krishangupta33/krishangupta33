@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishangupta33&label=Profile%20views&color=10b40e&style=flat-square" alt="krishangupta33" /> </p>
 
 ## 👋 Hello! I'm Krishan
-- 🎓 I'm an experienced Data Scientist and student at **McGill's Master of Management in Analytics (Data Science)**.
+- 🎓 I'm an experienced Data Scientist at Canadian Tire Financial Services.
+- Graduated from McGill with a Master of Management in Analytics (Data Science and ML focused).
 - 🤖 Specializing in **Machine Learning and Deep Learning**, with a focus on bringing models to production.
 - 💻 Experienced in **creating and deploying scalable ML/DL models**.
 - ✍️ I share insights and experiences on my blog: <a href="https://medium.com/@krishangupta33" target="_blank">https://medium.com/@krishangupta33</a>.  
